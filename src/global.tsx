@@ -1,3 +1,6 @@
+/**
+ * 全局js
+ */
 import { Button, message, notification } from 'antd';
 
 import React from 'react';
